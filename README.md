@@ -39,9 +39,12 @@
   - Mysql持久化存储
 
 ### 3. 可视化模块
-- 评分分布直方图（Matplotlib）
-- 电影类型占比饼图（Matplotlib）
-- 类型关键词词云（jieba分词）
+- 评分分布直方图（Matplotlib）  
+![image](https://github.com/iceycream2/bs4_DoubanTop250/blob/main/picture/2.png)
+- 电影类型占比饼图（Matplotlib）  
+![image](https://github.com/iceycream2/bs4_DoubanTop250/blob/main/picture/3.png)
+- 类型关键词词云（jieba分词）  
+![image](https://github.com/iceycream2/bs4_DoubanTop250/blob/main/picture/1.png)
 
 ### 4. 未来改进
 - 添加Docker支持
