@@ -2,7 +2,7 @@
 
 [![Python Version](https://img.shields.io/badge/python-3.10%2B-blue.svg)](https://www.python.org/)
 
-本项目为本人大二学习数据处理，通过python爬取豆瓣电影Top250数据，进行数据清洗、分析、可视化，并实现数据持久化存储，完整展示了数据处理的典型流程。
+通过python爬取豆瓣电影Top250数据，进行数据清洗、分析、可视化，并实现数据持久化存储，完整展示了数据处理的典型流程。
 
 ## 项目概述
 - 🕷️ 使用Requests+BeautifulSoup实现高效网页爬取
